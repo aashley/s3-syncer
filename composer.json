@@ -6,7 +6,7 @@
         "naderman/composer-aws": "*",
         "aws/aws-sdk-php": "*",
         "composer/composer": "1.0.x-dev",
-        "symfony/console": "2.3.*"
+        "symfony/console": "~2.5"
     },
     "require-dev": {
         "phpmd/phpmd": "*",
