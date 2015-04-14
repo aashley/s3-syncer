@@ -4,9 +4,9 @@
     "license": "BSD-2-Clause",
     "require": {
         "naderman/composer-aws": "*",
-        "aws/aws-sdk-php": "*",
+        "aws/aws-sdk-php": "*@stable",
         "composer/composer": "1.0.x-dev",
-        "symfony/console": "~2.5"
+        "symfony/console": "~2.5@stable"
     },
     "require-dev": {
         "phpmd/phpmd": "*",
