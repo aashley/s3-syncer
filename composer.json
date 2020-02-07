@@ -3,9 +3,9 @@
     "description": "sync files to S3",
     "license": "BSD-2-Clause",
     "require": {
-        "naderman/composer-aws": "*",
+        "naderman/composer-aws": "~1.0",
         "aws/aws-sdk-php": "*@stable",
-        "composer/composer": "1.0.x-dev",
+        "composer/composer": "~1.0",
         "symfony/console": "~2.5@stable"
     },
     "require-dev": {
